@@ -5,8 +5,6 @@ License
 This project is for educational purposes and follows the Berkeley AI Pacman Project framework.
 Please note that the project has been solved in teams of 2:
 
-Alexandra Nanu's work is marked under @Author: Alexandra Nanu
-Paula Moldovan's work is marked under """Paula Moldovan"""
 Overview
 The goal of this project is to apply fundamental AI search algorithms in a grid-based environment. Pacman must navigate through mazes using different strategies, each with its strengths and limitations.
 
